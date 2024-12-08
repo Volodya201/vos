@@ -1,0 +1,12 @@
+{
+    "name": "vos",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "colors": "^1.4.0"
+    }
+}

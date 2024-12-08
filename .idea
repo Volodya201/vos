@@ -1,0 +1,25 @@
+/* const
+
+auto
+int 
+string
+boolean
+array
+object
+dynamic */
+
+
+
+const int = 0
+string = "awdaw8d"
+string = 'awdaw8d'
+string = `awdaw8d`
+
+
+
+int gyat = 1
+int = 1
+int nullable gyat = null
+const int gyat = 1
+const int nullable gyat = null // will be useless
+
