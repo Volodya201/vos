@@ -1,22 +1,29 @@
-# vos - programing language you need
+# VOS - programming language you need
 
 ## Why it exist?
 
-Idk I just randomly start making it.
+Idk, I just randomly start making it
 
-# What "vos" even mean?
+## What does "vos" stands for?
 
 vos - VoOneScript
 
-VoOne is one of my not official nicknames
+VoOne is one of my nicknames
 
-And by the way vos sound like voice a little bit and I and my friend like call voice like this, so when i realize that VoOneScript is "VOS", i immediately pick this name
+And by the way vos sound like voice a little bit and I and my friend like call voice like this, so when I realized that VoOneScript is "VOS", I immediately picked this name
 
 ## What are the possibilities of vos
 
-If I dont forget to change this, it is version 1.0.0
+If I dont forget to change this, it is version 1.1.0 (I havent forgotten yet)
 
-For now i only can create variables 😭😎😭
+Now you can do much more than in 1.0.0:
+
+-   create and read variables
+-   init and call functions
+-   use built-in print function to output things
+-   add, subtract, multiply and divide
+-   concat strings
+-   see beauty of lexer and parser
 
 Star it to not lose and get new update 👍👍👍
 
@@ -28,6 +35,6 @@ Easily.
 
 -   Download this repository
 
--   Type in cmd "node _main.js_file_location_ _your\_.vos_file(there is script.vos in repository)_"
+-   Type in cmd "**node main.js_location your_vos_file**" (you can find example script.vos in repository)
 
--   Remember you can always add space and "true" like this: "node _main.js_file_location_ _your\_.vos_file(there is script.vos in repository)_" to see some logs about whats happening
+-   Remember you can always add space and "true" like this: "node main.js script.vos **true**" to see some logs with tokens and parsing

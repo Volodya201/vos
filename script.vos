@@ -1,4 +1,16 @@
-const auto gyat = 0
-const auto rizz = 0
-const boolean rizzmas = true
-const string gyatmas = "gyat"
+x = 50 + 50
+y = 5
+str = "hello" + " " + "world"
+bool = true
+
+print(x/5)
+
+fun myFunction(text) {
+    print("!" + text + "!")
+}
+
+myFunction(str)
+
+m = ((8 + 4) / 3 * 8 - (6 + 2 * 0.5)) + 0.35
+
+print(m)
